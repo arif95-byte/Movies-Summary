@@ -33,7 +33,10 @@ This project is to determine on what factor affect movie ratings:
 # Challenges
 There were some limitations due to missing data fields like release dates, which could have provided insights into trends over time. Additionally, technical constraints in the analysis environment limited some types of text analysis.
 
-# Recommdendations
+# Recommendations
 1. There's an opportunity to promote highly rated but less popular films, particularly those in non-English languages, to cater to niche audiences and enhance content diversity.
 2. Leveraging insights from text and title analysis could guide marketing strategies and content recommendations tailored to prevalent themes and popular keywords.
 3. Understanding the themes and words that frequently appear in successful movie titles might help in crafting titles that are more likely to engage potential viewers.
+
+# Credits
+Thank you to Kaggle for providing the dataset, feel free to donwload the dataset and comes up with another insights. I really enjoyed doing this project.
